@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <title>Johnson Portfolio</title>
 <meta charset="UTF-8">
@@ -20,7 +19,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <!-- Icon Bar (Sidebar - hidden on small screens) -->
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
-  <img src="D:\My_Portfolio\main\Images\20250512_101329.jpg" style="width:100%; filter: grayscale(100%);";>
+  <img src="\main\Images\20250512_101329.jpg" style="width:100%; filter: grayscale(100%);";>
   <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
     <i class="fa fa-home w3-xxlarge"></i>
     <p>HOME</p>
@@ -31,7 +30,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   </a>
    <a href="#Skills" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa w3-xxlarge"></i>
-    <img src="JohnsonMarcus-37.github.io/main/Icon/Project_Icon.jpg" style="max-width: 50% ; filter:invert(100%)";>
+    <img src="/main/Icon/Project_Icon.jpg" style="max-width: 50% ; filter:invert(100%)";>
     <p>SKILLS</p>
   </a>
   <a href="#Projects" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
@@ -59,7 +58,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Johnson Marcus</h1>
     <p>Software Developer & Devops Engineer</p>
-    <img src="D:\My_Portfolio\main\Images\20250318_145300.jpg" alt="boy" class="w3-image" width="992" height="1108">
+    <img src="\main\Images\20250318_145300.jpg" alt="boy" class="w3-image" width="992" height="1108">
   </header>
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
