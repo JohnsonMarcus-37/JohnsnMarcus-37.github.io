@@ -29,7 +29,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   </a>
    <a href="#Skills" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa w3-xxlarge"></i>
-    <img src="\Icon\Project_Icon.jpg" style="max-width: 50% ; filter:invert(100%)">
+    <img src="\main\Icon\Project_Icon.jpg" style="max-width: 50% ; filter:invert(100%)">
     <p>SKILLS</p>
   </a>
   <a href="#Projects" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
