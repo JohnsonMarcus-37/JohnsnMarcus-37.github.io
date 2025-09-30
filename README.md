@@ -9,7 +9,7 @@
 body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 .w3-row-padding img {margin-bottom: 12px;}
 /* Set the width of the sidebar to 120px */
-.w3-sidebar {width: 120px;background: #470505;}
+.w3-sidebar {width: 120px;}
 /* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
 #main {margin-left: 120px;}
 /* Remove margins from "page content" on small screens */
@@ -29,7 +29,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   </a>
    <a href="#Skills" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa w3-xxlarge"></i>
-    <img src="/main/Icon/Project_Icon.jpg" style="max-width: 50% ; filter:invert(100%)";>
+    <img src="\main\Icon\Project_Icon.jpg" style="max-width: 50% ; filter:invert(100%)";>
     <p>SKILLS</p>
   </a>
   <a href="#Projects" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
@@ -55,7 +55,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-    <h1 class="w3-jumbo"><span class="w3-hide-small"></span></h1>
+    <h1 class="w3-jumbo"><span class="w3-hide-small">My</span>Portfolio</h1>
     <p>Software Developer & Devops Engineer</p>
     <img src="\main\Images\20250318_145300.jpg" alt="boy" class="w3-image" width="992" height="1108">
   </header>
